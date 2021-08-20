@@ -2,7 +2,7 @@
 
 I'm frozenbits, or you can call me Adji, whichever suits your fancy.
 
-I'm a Flutter developer (or at least, that's what I'm trying to focus on).\
+I'm a Flutter / Backend developer. Kind of fullstack but not-that-fullstack since I prefer bit of both but not too much.\
 But mostly I dabble in the dark magic of spaghetti scripting with Python🐍.\
 Other than Python, I can also do some basic server management be it via AWS or ye olde regular linux VPS provider.
 
